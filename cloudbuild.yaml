@@ -5,3 +5,6 @@ steps:
 images:
   - 'gcr.io/$PROJECT_ID/flask-app'
 
+options:
+  logging: NONE
+
